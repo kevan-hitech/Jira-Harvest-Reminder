@@ -8,7 +8,7 @@ Follow these steps [insert link or detailed steps here].
 
 ## Install Additional Python Libraries
 
-```bash
+```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 pip install fastapi
 pip install uvicorn
@@ -25,10 +25,11 @@ Place credentials.json and token.json files inside the credentials folder.
 ```python3 main.py```
 ## Run the Server Continuously
 ```nohup python3 main.py &```
-Stopping the Server
+## Stopping the Server
 Create a Script to Stop the Server
 Open a terminal and create a script file:
 ```nano kill_server.sh```
+
 Copy and paste the following into the script file:
 ```
 #!/bin/bash

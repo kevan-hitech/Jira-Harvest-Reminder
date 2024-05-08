@@ -2,7 +2,7 @@
 
 ## Generate Google Credentials
 
-Follow these steps [insert link or detailed steps here].
+Follow these steps [https://developers.google.com/sheets/api/quickstart/python].
 
 ## Download Repository from Github
 

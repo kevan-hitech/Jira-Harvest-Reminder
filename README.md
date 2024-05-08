@@ -15,6 +15,7 @@ pip install uvicorn
 ```
 
 ## Create Credentials Folder
+```mkdir credentials```
 ## Create a folder named credentials in your project directory.
 Place credentials.json and token.json files inside the credentials folder.
 # Starting the Server

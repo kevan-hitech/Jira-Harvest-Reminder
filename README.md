@@ -28,6 +28,7 @@ Place credentials.json and token.json files inside the credentials folder.
 ## Stopping the Server
 Create a Script to Stop the Server
 Open a terminal and create a script file:
+
 ```nano kill_server.sh```
 
 Copy and paste the following into the script file:
